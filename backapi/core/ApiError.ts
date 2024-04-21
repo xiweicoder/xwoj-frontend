@@ -5,7 +5,7 @@
 import type {ApiRequestOptions} from "./ApiRequestOptions";
 import type {ApiResult} from "./ApiResult";
 
-export class ApiError extends Error {
+export class ApiError extends Error { 
     public readonly url: string;
     public readonly status: number;
     public readonly statusText: string;
