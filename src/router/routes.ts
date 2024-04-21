@@ -14,7 +14,7 @@ import QuestionSubmitView from "@/views/question/QuestionSubmitView.vue";
 import ViewQuestionsView from "@/views/question/ViewQuestionView.vue";
 
 /**
- * @author Shier
+ * @author 西尾coding
  * @createTime 2023/8/21 星期一 12:16
  */
 export const routes: Array<RouteRecordRaw> = [
